@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978223226922",
+    "project_id": "utem-bus-management-db",
+    "storage_bucket": "utem-bus-management-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978223226922:android:8ef9968e257ae053f56353",
+        "android_client_info": {
+          "package_name": "com.nyz.utem_bus_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978223226922-jobb2b3l09no9s79cinlhh0l0jnaubkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJmYbiH1pjq37_rpYw2qsF6R2_ZO_awzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978223226922-jobb2b3l09no9s79cinlhh0l0jnaubkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
